@@ -17,8 +17,8 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",
-        "silverstripe/admin": "^1@dev",
-        "silverstripe/cms": "^4@dev"
+        "silverstripe/admin": "^2@dev",
+        "silverstripe/cms": "^5@dev"
     },
     "autoload": {
         "psr-4": {
