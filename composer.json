@@ -11,7 +11,7 @@
     ],
     "require": {
         "silverstripe/framework": "^4@dev",
-        "silverstripe/vendor-plugin": "^1.0",
+        "silverstripe/vendor-plugin": "^2.0",
         "marczhermo/search-list": "4.x-dev",
         "guzzlehttp/guzzle": "^7"
     },
